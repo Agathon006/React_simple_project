@@ -19,7 +19,7 @@ https://github.com/Agathon006/React_simple_project/assets/64129058/11c1c67f-6d75
 
 ---
 
-## Instruction for launching this project
+## Instruction for launching
 
 1. Install all needed dependencies:
    `npm install`
@@ -28,8 +28,8 @@ https://github.com/Agathon006/React_simple_project/assets/64129058/11c1c67f-6d75
 
 ---
 
-## Technologies used in the project
+## Technologies
 
 - CSS
 - JSX
-- Modules
+- Modules (Imports / Exports)
